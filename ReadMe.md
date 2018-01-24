@@ -1,0 +1,16 @@
+# cj543 for fctix
+
+## cj543 原始檔案請參考
+[cj543 source cin data](https://github.com/hime-ime/hime/blob/master/data/cj543.cin)
+
+## 目前檔案為我將cj543中難字去除後的精簡版本
+
+## 建立碼表說明請參考
+
+```bash
+sudo apt-get install -y fcitx-tools
+```
+
+[how to make your own table-based input method](https://fcitx-im.org/wiki/How_to_make_your_own_table-based_input_method)
+[fcitx 自製碼表工具](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?topic_id=61666)
+[fcitx boshiamy](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=246870)
