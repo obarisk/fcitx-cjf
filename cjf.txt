@@ -41271,8 +41271,10 @@ vic 𨫥
 vicc 𢇃
 vice 㛖
 vici 嬤
-vid 槳
 vid 樂
+vida 樂
+vid 槳
+vidb 槳
 vidd 嫲
 vidi 嬤
 vidi 嬷
