@@ -1,6 +1,6 @@
 ;fcitx Version 0x03 Table file
 KeyCode=abcdefghijklmnopqrstuvwxyz
-Length=6
+Length=7
 Pinyin=@
 PinyinLength=6
 Prompt=&
@@ -10,6 +10,7 @@ InvalidChar=zx
 &a 日
 a 日
 a 曰
+ab 曰
 aa 昌
 aa 昍
 aaa 晶
@@ -134,11 +135,15 @@ afh 影
 afhh 影
 afhhh 影
 afln 㔀
-afmbc 顥
 afmbc 顯
+afmbca 顯
+afmbc 顥
+afmbcb 顥
 afmbo 颢
-afmc 顥
 afmc 顯
+afmca 顯
+afmc 顥
+afmcb 顥
 afmm 𣉖
 afmu 晃
 afmu 晄
@@ -36108,8 +36113,9 @@ stt 屏
 stv 展
 stwk 㞟
 su 己
+sua 己
 su 已
-su 
+sub 已
 su 㔾
 sua 己
 sub 已
@@ -42276,8 +42282,10 @@ wchf 鷶
 wcmw 圙
 wcwa 㽪
 wcys 圀
-wd 困
 wd 果
+wda 果
+wd 困
+wdb 困
 wdc 顆
 wde 敤
 wdh 团

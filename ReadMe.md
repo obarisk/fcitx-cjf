@@ -12,6 +12,7 @@ git clone https://github.com/obarisk/fcitx-cjf.git
 cd fcitx-cjf
 make install
 ```
+
 ## 移除
 
 ```bash
