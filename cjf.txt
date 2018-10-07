@@ -11,7 +11,7 @@ AdjustOrder=AdjustNo
 &a 日
 a 日
 a 曰
-ab 曰
+ac 曰
 aa 昌
 aa 昍
 aaa 晶
