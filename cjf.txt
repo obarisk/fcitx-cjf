@@ -6,6 +6,7 @@ PinyinLength=6
 Prompt=&
 ConstructPhrase=^
 InvalidChar=zx
+AdjustOrder=AdjustNo
 [Data]
 &a 日
 a 日
@@ -16221,8 +16222,10 @@ irnl 鄌
 irno 㰧
 irno 㰹
 irok 啟
-irp 怠
 irp 感
+irpa 感
+irp 怠
+irpb 怠
 iru 乨
 irymu 䶠
 irytj 辝
@@ -28281,8 +28284,10 @@ okp 矲
 okp 慜
 okpb 僀
 okq 伡
-okr 佑
 okr 知
+okra 知
+okr 佑
+okrb 佑
 okr 伽
 okr 倚
 okro 跾
@@ -36117,8 +36122,6 @@ sua 己
 su 已
 sub 已
 su 㔾
-sua 己
-sub 已
 sud 屘
 sudi 屗
 suf 熙
@@ -37764,8 +37767,10 @@ tmce 蘷
 tmce 虁
 tmcw 茜
 tmcw 莤
-tmd 芋
 tmd 某
+tmda 某
+tmd 芋
+tmdb 芋
 tmdhe 㿷
 tmdm 藶
 tmf 芣

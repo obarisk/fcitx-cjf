@@ -24,3 +24,4 @@ make clean
 - [how to make your own table-based input method](https://fcitx-im.org/wiki/How_to_make_your_own_table-based_input_method)
 - [fcitx 自製碼表工具](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?topic_id=61666)
 - [fcitx boshiamy](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=246870)
+- [fcitx-config](https://github.com/alswl/fcitx-config/blob/master/conf/fcitx-pinyin.config)
