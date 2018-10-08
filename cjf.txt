@@ -12482,7 +12482,6 @@ hgt 篕
 hgu 先
 hgu 皝
 hgy 靠
-hh 
 hh 𠂆
 hhaf 䉆
 hhag 篁
@@ -13841,7 +13840,6 @@ hpuu 篘
 hpye 㪓
 hq 牛
 hq 牜
-hq 
 hqa 籍
 hqa 簎
 hqae 犦
@@ -21954,7 +21952,9 @@ mbu 霓
 mbu 霜
 mbu 霿
 mbuc 頁
+mbuca 頁
 mbuc 貢
+mbucb 貢
 mbuce 鬷
 mbue 鬷
 mbujt 靊
@@ -23391,7 +23391,6 @@ mmypu 虣
 mmyu 巰
 mmyu 虣
 mn 丁
-mn 
 mn 𠃌
 mna 殉
 mna 殙
@@ -26297,8 +26296,10 @@ nkwr 廻
 nkwsl 廽
 nkylm 㢟
 nkyv 㢟
-nl 弔
 nl 引
+nla 引
+nl 弔
+nlb 弔
 nl 阝
 nla 陌
 nla 階
@@ -28120,7 +28121,9 @@ oiywm 饘
 oiyx 䭣
 oiyy 飰
 oj 什
+oja 什
 oj 午
+ojb 午
 oj 仐
 ojb 伂
 ojbc 傎
@@ -32865,8 +32868,10 @@ rjhf 鷤
 rjhp 咤
 rjhq 哰
 rjhr 喀
-rji 戢
 rji 戰
+rjia 戰
+rji 戢
+rjib 戢
 rji 囀
 rjig 𡁶
 rjj 喃
@@ -36751,7 +36756,6 @@ tfu 虌
 tfvk 薮
 tfyj 𦻐
 tg 芏
-tg 
 tg 𦍌
 tgb 苒
 tgbt 盖
