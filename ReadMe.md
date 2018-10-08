@@ -4,7 +4,8 @@
 - 目前檔案為將cj543中難字去除後的精簡版本
 - [cj543 source cin data](https://github.com/hime-ime/hime/blob/master/data/cj543.cin)
 
-## 安裝
+## 自行安裝(可以再行調整字庫檔)
+### 安裝
 
 ```bash
 sudo apt-get install -y fcitx-tools
@@ -13,16 +14,26 @@ cd fcitx-cjf
 make install
 ```
 
+### 移除
+
+```bash
+make clean
+```
+
+## 直接安裝(使用目前字庫檔)
+
+### 安裝
+
 ```bash
 wget https://raw.githubusercontent.com/obarisk/fcitx-cjf/master/cjf.conf
 wget https://github.com/obarisk/fcitx-cjf/raw/master/cjf.mb
 mv cjf.conf cjf.mb ~/.config/fcitx/table/
 ```
 
-## 移除
+### 移除
 
 ```bash
-make clean
+rm ~/.config/fcitx/table/cjf.conf ~/.config/fcitx/table/cjf.mb
 ```
 
 ## 建立碼表說明請參考
