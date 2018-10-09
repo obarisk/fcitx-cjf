@@ -1154,7 +1154,6 @@ bbyrb 髇
 bbytg 𩪘
 bbytj 辭
 bbyvo 骸
-bc 
 bc 㓁
 bc 𦉪
 bca 賭
@@ -6972,10 +6971,8 @@ ehjm 涶
 ehjr 活
 ehjx 㴙
 ehk 沃
-ehk 淚
 ehk 溴
 ehk 澳
-ehk 激
 ehkb 𣾷
 ehkl 㳢
 ehkp 添
@@ -7063,7 +7060,9 @@ ehs 沪
 ehsd 淭
 ehse 溵
 ehsk 淚
+ehska 淚
 ehsk 激
+ehskb 激
 ehsu 滬
 eht 洫
 eht 盪
@@ -8653,7 +8652,6 @@ fayf 燝
 fayi 𤋉
 fayt 煜
 fb 肖
-fb 
 fba 嘗
 fbac 熐
 fbb 常
@@ -12436,7 +12434,6 @@ hfyhs 䲱
 hfyhv 䙚
 hfyk 鷻
 hg 壬
-hg 
 hg 𡈼
 hga 濌
 hgafu 皩
@@ -13037,8 +13034,6 @@ hlypm 齇
 hlypn 䖐
 hlypu 䖐
 hm 笁
-hm 
-hm 
 hm 𠂇
 hm 𠃋
 hm 𠂉
@@ -16131,8 +16126,10 @@ ipnsj 麛
 ipog 隿
 ipoiv 䬥
 ipop 㓒
-ipp 庇
 ipp 態
+ippa 態
+ipp 庇
+ippb 庇
 ipp 忒
 ipp 麀
 ipp 麤
@@ -17012,7 +17009,6 @@ jhu 宂
 jhus 㝰
 jhw 審
 jhxf 寫
-ji 
 ji 𢦏
 jiav 㝗
 jibi 博
@@ -31595,7 +31591,6 @@ qlymr 誓
 qlyr 誓
 qlyv 裚
 qm 扛
-qm 
 qma 搢
 qma 𢫦
 qmak 擫
@@ -32367,7 +32362,6 @@ qyt 拉
 qyt 攎
 qyta 揞
 qytg 撞
-qytk 𢱤
 qytr 掊
 qytu 摬
 qytv 接
@@ -43110,7 +43104,6 @@ xehmr 硰
 xehni 渢
 xehoo 漇
 xehq 汼
-xehsk 淚
 xehuc 瀩
 xehxf 澙
 xei 叉

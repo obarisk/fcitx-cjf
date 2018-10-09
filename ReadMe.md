@@ -60,3 +60,5 @@ romr      |哈啥      |ror        |xromr      |           |
 mbuc      |頁貢      |mbuca      |mbucb      |           |
 oj        |什午      |oja        |ojb, xoj   |           |
 nl        |引弔      |nla        |nlb        |           |
+ehsk      |淚激      |ehska      |enxkb      |           |
+ipp       |態庇      |ippa       |ippb, xipp |           |
