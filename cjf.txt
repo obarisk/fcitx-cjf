@@ -586,7 +586,6 @@ anomc 𨴴
 anomm 闟
 anomr 閤
 anon 䦍
-anoog 
 anoog 䦟
 anooo 閦
 anor 閤
@@ -764,7 +763,6 @@ asje 最
 asjs 朂
 askr 𣇉
 asmb 㫶
-asme 𣆲
 asmg 曜
 asmh 㬔
 asp 昵
@@ -1066,10 +1064,8 @@ bbmj 骭
 bbmk 骾
 bbmlk 骾
 bbmmu 䯈
-bbmn 𩨑
 bbmnr 䯊
 bbmr 胴
-bbmr 𠖄
 bbmvu 旤
 bbn 骯
 bbn 剮
@@ -1151,7 +1147,6 @@ bbyo 骸
 bbyp 骴
 bbypt 髗
 bbyrb 髇
-bbytg 𩪘
 bbytj 辭
 bbyvo 骸
 bc 㓁
@@ -1478,7 +1473,6 @@ bfqf 鰧
 bfqg 塍
 bfqi 螣
 bfqm 腾
-bfqm 
 bfqm 䲢
 bfqr 謄
 bfqs 勝
@@ -22710,8 +22704,10 @@ mgoir 琀
 mgoir 瑲
 mgoj 玝
 mgoju 珤
-mgok 玫
 mgok 致
+mgoka 致
+mgok 玫
+mgokb 玫
 mgol 玠
 mgoll 玠
 mgoma 璯
