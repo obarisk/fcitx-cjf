@@ -62,3 +62,5 @@ oj        |什午      |oja        |ojb, xoj   |           |
 nl        |引弔      |nla        |nlb        |           |
 ehsk      |淚激      |ehska      |enxkb      |           |
 ipp       |態庇      |ippa       |ippb, xipp |           |
+mrno      |歌砍      |mrnoa      |mrnob, mro |           |
+yrpa      |詢諧詣    |yrpaa      |yrpab      |yrpac      |

@@ -14361,7 +14361,6 @@ hu 屲
 hua 氆
 hua 氌
 hua 㬱
-huabu 𣯀
 huam 曁
 huasm 㲩
 hubc 贊
@@ -24244,8 +24243,10 @@ mrnl 酃
 mrnl 䂙
 mrnme 碌
 mrnmu 硊
-mrno 砍
 mrno 歌
+mrnoa 歌
+mrno 砍
+mrnob 砍
 mrno 㰤
 mrnom 硁
 mrnot 磴
@@ -24259,7 +24260,6 @@ mrnu 硊
 mrnvm 码
 mro 砍
 mro 砭
-mro 歌
 mro 礎
 mro 礙
 mro 砆
@@ -43598,7 +43598,6 @@ xmri 戨
 xmrii 砿
 xmrmb 碽
 xmrnl 酃
-xmrno 砍
 xmrsf 礟
 xms 戸
 xmsks 劢
@@ -46300,9 +46299,12 @@ yrp 讔
 yrp 訫
 yrp 㤐
 yrp 䚰
-yrpa 詣
 yrpa 詢
 yrpa 諧
+yrpa 詣
+yrpac 詣
+yrpaa 詢
+yrpab 諧
 yrpd 訑
 yrpd 諜
 yrpfd 諊
