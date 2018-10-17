@@ -65,3 +65,5 @@ ipp       |態庇      |ippa       |ippb, xipp |           |
 mrno      |歌砍      |mrnoa      |mrnob, mro |           |
 yrpa      |詢諧詣    |yrpaa      |yrpab      |yrpac      |
 mgok      |致玫      |mgoka      |mgokb      |           |
+toln      |刻劇      |yolna      |yolnb      |           |
+tvid      |藥孳      |tvida      |tvidb      |           |

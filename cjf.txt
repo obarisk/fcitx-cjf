@@ -38722,8 +38722,10 @@ tvi 茲
 tvi 蔣
 tvi 葯
 tvi 薅
-tvid 孳
 tvid 藥
+tvida 藥
+tvid 孳
+tvidb 孳
 tvif 鶿
 tvif 䒺
 tvih 䓼
@@ -45398,7 +45400,9 @@ yoks 劾
 yoks 勮
 yolmi 䗠
 yoln 刻
+yolna 刻
 yoln 劇
+yolnb 劇
 yombc 頦
 yombc 顡
 yombo 颏
