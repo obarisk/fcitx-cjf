@@ -67,3 +67,6 @@ yrpa      |詢諧詣    |yrpaa      |yrpab      |yrpac      |
 mgok      |致玫      |mgoka      |mgokb      |           |
 toln      |刻劇      |yolna      |yolnb      |           |
 tvid      |藥孳      |tvida      |tvidb      |           |
+giks      |勢劫      |giksa      |giksb      |           |
+oge       |隻雙      |ogea       |ogeb       |           |
+dtmc      |棋橫      |dtmca      |dtmcb      |           |

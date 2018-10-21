@@ -4141,7 +4141,6 @@ csyi 钃
 cta 錯
 cta 鐠
 ctak 鏌
-ctav 𨭛
 ctaw 钄
 ctb 鎙
 ctbc 錪
@@ -6087,7 +6086,9 @@ dtm 柑
 dtm 槎
 dtm 槿
 dtmc 棋
+dtmca 棋
 dtmc 橫
+dtmcb 橫
 dtmd 楳
 dtmj 樺
 dtmm 栏
@@ -9607,7 +9608,6 @@ fpu 炖
 fpu 炮
 fpuu 煼
 fq 半
-fq 
 fqb 帣
 fqbu 眷
 fqbuu 䚏
@@ -10369,8 +10369,10 @@ gijb 埔
 gik 埃
 gike 坺
 gikp 垅
-giks 劫
 giks 勢
+giksa 勢
+giks 劫
+giksb 劫
 gil 邿
 gilb 墉
 gilb 幇
@@ -26164,7 +26166,6 @@ nhx 臽
 nhytg 䂌
 ni 夕
 ni 弘
-ni 
 niail 𡖖
 nibq 甬
 nic 夤
@@ -27492,7 +27493,9 @@ ogd 集
 ogd 栠
 ogdi 侍
 oge 隻
+ogea 隻
 oge 雙
+obeb 雙
 oge 倰
 ogee 䨇
 ogf 焦
