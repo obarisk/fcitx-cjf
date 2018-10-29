@@ -38272,7 +38272,6 @@ tpyv 蘹
 tpyv 𦮝
 tq 羊
 tq 芈
-tq 
 tq 𦍋
 tqa 藉
 tqa 萶
@@ -44772,7 +44771,6 @@ yfiku 就
 yfiu 就
 yfks 勍
 yfln 剠
-yfok 
 yfok 䱷
 yfq 遴
 yfr 㕻
