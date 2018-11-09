@@ -27493,7 +27493,7 @@ ogdi 侍
 oge 隻
 ogea 隻
 oge 雙
-obeb 雙
+ogeb 雙
 oge 倰
 ogee 䨇
 ogf 焦
