@@ -35412,8 +35412,9 @@ shoa 㞛
 shob 屩
 shod 屧
 shod 髹
-shoe 屐
 shoe 履
+shoe 屐
+shoeb 屐
 shog 雡
 shog 髽
 sholl 䯰
