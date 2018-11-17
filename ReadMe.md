@@ -71,3 +71,4 @@ giks      |勢劫      |giksa      |giksb      |           |
 oge       |隻雙      |ogea       |ogeb       |           |
 dtmc      |棋橫      |dtmca      |dtmcb      |           |
 shoe      |履屐      |shoe       |shoeb      |           |
+hmnl      |郵邸筇    |hmnla      |hmnlb      |hmnlc      |

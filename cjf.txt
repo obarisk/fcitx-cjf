@@ -13102,9 +13102,12 @@ hmn 籈
 hmnd 築
 hmni 䉔
 hmnj 筑
-hmnl 邸
 hmnl 郵
+hmnl 邸
 hmnl 筇
+hmnla 郵
+hmnlb 邸
+hmnlc 筇
 hmnq 篫
 hmnr 笴
 hmo 筮
